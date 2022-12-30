@@ -43,8 +43,8 @@ print(reversed_language) #Muestra la palabra revertida#
 
 ## Funciones del lenguaje##
 
-print(language.capitalize()) #Monstrar la primera palabra en Mayúsculas#
-print(language.upper()) # Mosntrar toda la palabra en mayúsculas#
+print(language.capitalize()) #Mostrar la primera palabra en Mayúsculas#
+print(language.upper()) # Mostrar toda la palabra en mayúsculas#
 print(language.count("B")) # Contar cuantas palabras hay de las indicadas#
 print(language.isnumeric()) # Indica si la palabra es un número#
 print("1".isnumeric()) # Indica si el dato es un número#
