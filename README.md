@@ -1,3 +1,3 @@
 # python
 
-<p>Conceptos y ejercicios básicos de rogramación en python</p>
+<p>Conceptos y ejercicios básicos de programación en python</p>
